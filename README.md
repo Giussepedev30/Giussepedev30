@@ -34,10 +34,6 @@ Project focused on personal finance and task management.
 
 [🔗 View Repository](https://github.com/Giussepedev30/MeldCash)
 
-### 🌼 Personal Website
-A floral-themed website built as a web development project.
-
-[🔗 View Repository](https://github.com/Giussepedev30/Giussepedev30.github.io)
 
 ---
 
